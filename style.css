@@ -30,6 +30,9 @@
 		    -moz-transition: all 0.3s ease-in-out;
 		    transition: all 0.3s ease-in-out;
 		}
+	.icon i{
+			font-size: 40px;
+		}
 #customers-teams .item p{
 	font-size:12px;
 }
